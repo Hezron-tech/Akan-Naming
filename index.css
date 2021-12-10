@@ -13,18 +13,28 @@
 }
 .section1{
     display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 .hed{
     margin-top: 10%;
     color: white;
 }
-.section1 >p{
+.art >p{
     color: white;
     font-size: 20px;
+    font-style: italic;
+    
 }
 .image{
     margin-left: 16%;
+
+    
+}
+.con >h2{
+    color: white;
+    font-weight: bold;
 }
 .overlay{
     background-color:orange;
@@ -44,7 +54,25 @@
     font-size: 28px;
     
   }
+  
   .btn{
 margin-top: 3%;
   }
-  
+  h2{
+      text-align: center;
+  }
+  .con .table{
+      color: white;
+      margin-left: 20%;
+      background-color: white;
+      width: 500px;
+      height: 200px;
+  }
+  .table th{
+      color:black;
+      color: orange;
+      font-weight: bold;
+  }
+  .table td{
+      color: black;
+  }
