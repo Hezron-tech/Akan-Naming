@@ -1,10 +1,15 @@
+
 .heading{
     
     margin-right: 10%;
+    color: white;
 }
 .para{
+    color: white;
+    padding-top: 10px;
     font-size: 30px;
-    font-style: italic;
+   text-align: center;
+   font-weight: bold;
 }
 .section1{
     display: flex;
@@ -12,9 +17,10 @@
 }
 .hed{
     margin-top: 10%;
+    color: white;
 }
 .section1 >p{
-    
+    color: white;
     font-size: 20px;
 }
 .image{
@@ -41,4 +47,4 @@
   .btn{
 margin-top: 3%;
   }
-  .
+  
