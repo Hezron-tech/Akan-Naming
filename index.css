@@ -1,0 +1,19 @@
+.heading{
+    
+    margin-right: 20%;
+}
+.para{
+    font-size: 30px;
+    font-style: italic;
+}
+.section1{
+    display: flex;
+    
+}
+.hed{
+    margin-top: 10%;
+}
+.section1 >p{
+    
+    font-size: 20px;
+}
