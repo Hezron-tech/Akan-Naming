@@ -6,7 +6,7 @@
 }
 .para{
     color: white;
-    padding-top: 10px;
+    padding-top: 7%;
     font-size: 30px;
    text-align: center;
    font-weight: bold;
@@ -75,4 +75,7 @@ margin-top: 3%;
   }
   .table td{
       color: black;
+  }
+  .foot{
+      color: white;
   }
