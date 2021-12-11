@@ -77,5 +77,12 @@ margin-top: 3%;
       color: black;
   }
   .foot{
-      color: white;
+      color: black;
+      text-align: center;
+      margin-top: 4%;
+      padding-top: 10px;
+      background-color: whitesmoke;
+      height: 40px;
+      justify-content: center;
+      font-size: 30px;
   }
